@@ -1,0 +1,6 @@
+12:18:10.283 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
+12:18:14.972 [main] INFO  testAutomation.InvokeHomePageTest - executed successfully
+12:18:25.725 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
+12:18:28.742 [main] INFO  testAutomation.InvokeHomePageTest - executed successfully
+12:18:44.270 [main] INFO  testAutomation.NavigationBarTest - URL invoked successfully
+12:18:48.832 [main] INFO  testAutomation.NavigationBarTest - driver closed

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17536" started-at="2021-05-08T12:00:17 IST" finished-at="2021-05-08T12:00:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17536" started-at="2021-05-08T12:00:17 IST" finished-at="2021-05-08T12:00:35 IST">
+      <class name="testAutomation.InvokeHomePageTest">
+        <test-method status="PASS" signature="invokeHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:testAutomation.InvokeHomePageTest@e4487af]" name="invokeHomePageTest" duration-ms="10933" started-at="2021-05-08T12:00:17 IST" data-provider="LoginTestData" finished-at="2021-05-08T12:00:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ganesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeHomePageTest -->
+        <test-method status="PASS" signature="invokeHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:testAutomation.InvokeHomePageTest@e4487af]" name="invokeHomePageTest" duration-ms="6568" started-at="2021-05-08T12:00:28 IST" data-provider="LoginTestData" finished-at="2021-05-08T12:00:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeHomePageTest -->
+      </class> <!-- testAutomation.InvokeHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

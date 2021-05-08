@@ -1,0 +1,12 @@
+23:48:13.416 [main] INFO  testAutomation.InvokeHomePageTest - Data provider is reached successfully
+23:48:17.621 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
+23:48:18.111 [main] INFO  testAutomation.InvokeHomePageTest - executed successfully
+23:48:22.834 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
+23:48:23.242 [main] INFO  testAutomation.InvokeHomePageTest - executed successfully
+23:48:33.746 [main] INFO  testAutomation.NavigationBarTest - URL invoked successfully
+23:48:33.804 [main] INFO  testAutomation.NavigationBarTest - Navigation bar is found
+23:48:34.503 [main] INFO  testAutomation.NavigationBarTest - driver closed
+23:49:48.287 [main] INFO  testAutomation.InvokeHomePageTest - Data provider is reached successfully
+23:49:52.582 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
+23:49:52.903 [main] INFO  testAutomation.InvokeHomePageTest - executed successfully
+23:49:57.012 [main] INFO  testAutomation.InvokeHomePageTest - URL invoked successfully
